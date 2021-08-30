@@ -1,2 +1,2 @@
-# Attendance-project-using-Machine-learning-
-i made this project in python with the help of the machine learning
+# Attendance-system-face-recognintion-
+This project is made in python with the help of machine learning
